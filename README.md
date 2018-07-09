@@ -12,7 +12,8 @@ Compling the Raven Android project in Kotlin, the beginnings of an intelligent c
 https://github.com/GauravG8/raven-kotlin
 
 #### 9th July, 2018:
-Exploring Jupyter Notebooks and Google Colaboratory
+Exploring Jupyter Notebooks and Google Colaboratory (https://github.com/GauravG8/ML/blob/master/Hello%2C_Colaboratory.ipynb)
+
 Added Reminders support to Dialogflow for Raven
 
 
