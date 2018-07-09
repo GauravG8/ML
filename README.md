@@ -13,5 +13,6 @@ https://github.com/GauravG8/raven-kotlin
 
 #### 9th July, 2018:
 Exploring Jupyter Notebooks and Google Colaboratory
+Added Reminders support to Dialogflow for Raven
 
 
