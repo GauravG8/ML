@@ -17,3 +17,10 @@ Exploring Jupyter Notebooks and Google Colaboratory (https://github.com/GauravG8
 Added Reminders support to Dialogflow for Raven
 
 
+#### 10th July, 2018
+Understanding Neural Style transfer
+https://www.youtube.com/watch?v=pQyzdwHBbqo
+
+![Neural Style Transfer](https://github.com/GauravG8/ML/blob/master/neural-style-transfer/nst_2018-07-10_3.png)
+
+[Neural Artistic Style Transfer: A Comprehensive Look - Medium](https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199)
