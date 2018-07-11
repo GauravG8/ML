@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=pQyzdwHBbqo
 ![Neural Style Transfer](https://github.com/GauravG8/ML/blob/master/neural-style-transfer/nst_2018-07-10_3.png)
 
 [Neural Artistic Style Transfer: A Comprehensive Look - Medium](https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199)
+
+#### 11th July, 2018
+Working on the Machine Learning Map and choosing the right path. 
