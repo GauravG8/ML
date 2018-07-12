@@ -26,4 +26,13 @@ https://www.youtube.com/watch?v=pQyzdwHBbqo
 [Neural Artistic Style Transfer: A Comprehensive Look - Medium](https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199)
 
 #### 11th July, 2018
-Working on the Machine Learning Map and choosing the right path. 
+Working on the Machine Learning Map. Discussions on ML to figure out the next path. Currently, chose to go with NLP.
+
+#### 12th July, 2018
+Understanding how to build a text summarizer (https://www.youtube.com/watch?v=ogrJaOIuBx4). Still a long way to go.
+Terms to understand:
+* Syntatic Parsing
+* Pickle & Keras
+* Word Vectors: word2vec & GloVe
+* Sequence to sequence
+* LSTM
