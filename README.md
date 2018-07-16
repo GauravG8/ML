@@ -38,4 +38,17 @@ Terms to understand:
 * LSTM
 
 #### 13th July, 2018
-Conversations on ML regarding text and image processing. Laying out and undeerstanding what had been learnt so for.
+Conversations on ML regarding text and image processing. Laying out and undeerstanding what had been learnt so for. Understanding Numerical representations of data for Machine learning (word2vec & image matix representation)
+
+#### 16th July, 2018
+Concepts to explore:
+* AlphaGo
+* Deep Q
+* Wavenet
+* scikit-learn
+* Gradient Descent Algorithm
+* Neural Networks (Deep Learning)
+
+[Basics of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+[Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
