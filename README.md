@@ -36,3 +36,6 @@ Terms to understand:
 * Word Vectors: word2vec & GloVe
 * Sequence to sequence
 * LSTM
+
+#### 13th July, 2018
+Conversations on ML regarding text and image processing. Laying out and undeerstanding what had been learnt so for.
