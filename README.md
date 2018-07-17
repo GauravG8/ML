@@ -70,3 +70,6 @@ Concepts to explore:
 4. Enable CUDA
 5. Train the model using backpropagation
 
+##### LSTM - Long Short Term Memory Recurrent Neural Networks
+
+LSTM can take an input sentence of variable length and convert it to a fixed dimensional vector representation called thought vector. The vector generated will help recognize the closeness of similar sentences.
