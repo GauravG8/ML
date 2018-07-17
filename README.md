@@ -52,3 +52,21 @@ Concepts to explore:
 [Basics of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 [Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+
+#### 17th July, 2018
+[Build a Chatbot - ML for Hackers #6](https://www.youtube.com/watch?v=5_SAroSvC0E)
+
+* Retrieval Model - Hardcoded responses
+* Generative Model - Trained with datset
+
+##### Neural Conversational Model (Torch & Lua)
+
+1. Load dataset
+2. Build Model - Sequence to Sequence Model (2 LSTMs)
+3. Training Parameters - 
+   * Negative Log Likelihood - to improve sentence predictions
+   * Learning Rate & Momentum - help pace timesteps 
+   * Decay Factor & Min Mean Error - helps improve learning rate while training
+4. Enable CUDA
+5. Train the model using backpropagation
+
