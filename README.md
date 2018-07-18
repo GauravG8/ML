@@ -73,3 +73,14 @@ Concepts to explore:
 ##### LSTM - Long Short Term Memory Recurrent Neural Networks
 
 LSTM can take an input sentence of variable length and convert it to a fixed dimensional vector representation called thought vector. The vector generated will help recognize the closeness of similar sentences.
+
+#### 18th July, 2018
+Understanding Chatbots with APIs and Tensorflow
+
+* Feed Forward Neural Network
+    * Data flows one way 
+    * Takes a fixed data size (images or numbers), eg. predict if temperature is hot or cold
+* Reccurrent Neural Networks
+    * Sequence Learning
+    * Feed data back to input while training in a recurring loop
+    * useful for conversational training
