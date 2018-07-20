@@ -57,7 +57,7 @@ Concepts to explore:
 [Build a Chatbot - ML for Hackers #6](https://www.youtube.com/watch?v=5_SAroSvC0E)
 
 * Retrieval Model - Hardcoded responses
-* Generative Model - Trained with datset
+* Generative Model - Trained with dataset
 
 ##### Neural Conversational Model (Torch & Lua)
 
@@ -84,3 +84,21 @@ Understanding Chatbots with APIs and Tensorflow
     * Sequence Learning
     * Feed data back to input while training in a recurring loop
     * useful for conversational training
+    
+#### 19th July, 2018
+##### Selective Model
+* Restricted pool of responses
+* Customizable (Speak like a certain character)
+
+ [A Neural Conversational Model using RNN](https://github.com/GauravG8/chatbot_tutorial)
+ 
+In LSTM, memory is encoded by hidden states and weights is too small for long sequences (movies and books). The solution was to store multiple LSTM states and use an attention mechanism to choose between them.
+
+##### A better solution: Dynamic Memory Network
+* Neural network uses an external data structure as memory storage
+* Learns where to retrieve the required memory from the memory bank in a supervised way
+* Uses semantic and episodic memory
+
+1. Extract data
+2. Split data
+3. Vectorise data
