@@ -102,3 +102,9 @@ In LSTM, memory is encoded by hidden states and weights is too small for long se
 1. Extract data
 2. Split data
 3. Vectorise data
+
+#### 21st July, 2018
+Getting started with building a Telegram Bot. Discussions regarding ML, NLP and Rasa NLU.
+
+#### 22nd July, 2018
+Completed a basic echobot for Telegram. Deployed in Python Anywhere(Requires https).
