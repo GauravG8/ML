@@ -17,6 +17,7 @@ def receive_message(msg):
 
 def handle_message(message):
     # Handle and process message in this function. In this case, send the message back
+    message = message[::-1]
     return message
 
 
@@ -25,7 +26,7 @@ def send_message(message, chat_id):
     data = {"text": message.encode("utf-8"), "chat_id": chat_id}
     url = BASE_URL + "/sendMessage"
     try:
-        response = request.post(url, data).content
+        response = requests.post(url, data).content
     except Exception as e:
         print(e)
 
