@@ -108,3 +108,8 @@ Getting started with building a Telegram Bot. Discussions regarding ML, NLP and 
 
 #### 22nd July, 2018
 Completed a basic echobot for Telegram. Deployed in Python Anywhere(Requires https).
+
+#### 23rd July, 2018
+Updated and deployed reverse echobot flask backend to CodeAnywhere and connected to telegram.
+
+Bot can be accessed at [ReverseBot](https://t.me/NiohBot)
