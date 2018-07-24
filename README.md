@@ -113,3 +113,16 @@ Completed a basic echobot for Telegram. Deployed in Python Anywhere(Requires htt
 Updated and deployed reverse echobot flask backend to CodeAnywhere and connected to telegram.
 
 Bot can be accessed at [ReverseBot](https://t.me/NiohBot)
+
+#### 24th July, 2018
+AI Writer in Python (Lasagne)
+* Load Image
+    * Byte representation of image using numpy
+    * Resize it so smallest dim = 256, preserve aspect ratio
+* Run image through deep **Convolutional neural network (CNN)** to extract features
+* Encode the image features into a multi-modal neural language model (based on **Unifying Visual Semantic Embeddings**)
+    * Generates description for image using **LSTM RNN**
+* Compute nearest neighbours
+* Generate Skip Thought Vectors using **Gated Recurrent Units (GRUs) RNN** - Similar sentences
+* Shift style of caption to the style of a book (trained using romance novels)
+* Generate story based on shift (decoder using **RNN**)
