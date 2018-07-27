@@ -126,3 +126,25 @@ AI Writer in Python (Lasagne)
 * Generate Skip Thought Vectors using **Gated Recurrent Units (GRUs) RNN** - Similar sentences
 * Shift style of caption to the style of a book (trained using romance novels)
 * Generate story based on shift (decoder using **RNN**)
+
+#### 25th July, 2018
+Connected Raven DialogFlow to Telegram [@RavenSnowBot](https://t.me/RavenSnowBot). Customized replies.
+
+#### 26th July, 2018
+**Bot Architecture** - Connecting different backends to frontends with varied processing pipelines.
+* Backend
+  * Python
+  * Go
+  * Node JS
+* Processing (Handle Messages)
+  * DialogFlow
+  * Wit.ai
+  * Recast.ai
+  * Rasa NLU
+  * Custom Model
+* Frontend
+  * Telegram
+  * Command Line
+  * Website
+  * App
+  
