@@ -107,7 +107,7 @@ In LSTM, memory is encoded by hidden states and weights is too small for long se
 Getting started with building a Telegram Bot. Discussions regarding ML, NLP and Rasa NLU.
 
 #### 22nd July, 2018
-Completed a basic echobot for Telegram. Deployed in Python Anywhere(Requires https).
+Completed a basic echobot for Telegram. Deployed in Python Anywhere (Requires https).
 
 #### 23rd July, 2018
 Updated and deployed reverse echobot flask backend to CodeAnywhere and connected to telegram.
@@ -147,4 +147,23 @@ Connected Raven DialogFlow to Telegram [@RavenSnowBot](https://t.me/RavenSnowBot
   * Command Line
   * Website
   * App
+  
+#### 27th July, 2018
+Bot for mental and psychological analysis based on text messages.
+* Feed text message list
+* Analyze the people in the conversation
+* Build character analysis and generate a summary
+
+Possible datasets: Chat history
+  
+#### 30th July, 2018
+Expanding knowledge on Chatbots
+* [Chatbots Fundamentals - Python](https://apps.worldwritable.com/tutorials/chatbot/)
+* [NLP for Chatbots - Tensorflow](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c)
+* [NLP is Fun!](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
+
+**Conversational Interfaces:**  A hybrid UI that interacts with users combining chat, voice or any other natural language interface with graphical UI elements.
+
+[Landbot](https://landbot.io/)
+  
   
